@@ -4,7 +4,7 @@
 This is an Android application that graphically represents the Gaussian pixel intensities on a mask.
 
 
-#Long explanation
+# Long explanation
 As a result of my TFG in the Multimedia degree, one of the tasks I did was to interpret the formula that transforms the Gaussian curve in two dimensions. 
 This can be used to add weights to the pixels of the convolutional mask, for example to reduce noise. 
 I just want to share this piece of work to show you how the Gaussian curve changes as the sigma changes. 
